@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "formidable": "^3.5.2"
+  },
+  "name": "nodjs",
+  "version": "1.0.0",
+  "description": "node project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mian.js"
+  },
+  "author": "Ahmed",
+  "license": "ISC"
+}
